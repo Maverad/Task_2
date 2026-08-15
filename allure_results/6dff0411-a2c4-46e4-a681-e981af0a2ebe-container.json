@@ -1,0 +1,1 @@
+{"uuid": "335ec318-53b6-4e40-9499-798fcdfdb681", "children": ["9406f11c-6f13-4045-b57c-8f3e3b33642f"], "befores": [{"name": "o_controller", "status": "passed", "start": 1786796225305, "stop": 1786796225306}], "afters": [{"name": "o_controller::<lambda>", "start": 1786796226191}], "start": 1786796225305, "stop": 1786796226191}
