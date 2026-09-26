@@ -1,0 +1,1 @@
+{"uuid": "3c07cc98-d980-4a76-9708-629286a7dd43", "children": ["9ad0854b-a3ad-48de-af8d-d5a4d01a1313"], "befores": [{"name": "p_controller", "status": "passed", "start": 1786796232071, "stop": 1786796232071}], "afters": [{"name": "p_controller::<lambda>", "start": 1786796232294}], "start": 1786796232071, "stop": 1786796232294}
